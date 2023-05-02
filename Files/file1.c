@@ -23,6 +23,10 @@ fgets()
 fputs()
 fseek()
 ftell()
+rewind()
+fwrite()
+fread()
+
 
 */
 
